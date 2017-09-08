@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Edu projet to understand puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniilweb <daniiborowkow@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  }
+}
